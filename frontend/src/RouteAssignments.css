@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+td{
+    border-collapse: collapse;
+    border: 1px solid white;
+}
